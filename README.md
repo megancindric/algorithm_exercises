@@ -1,1 +1,1 @@
-# algorithm_exercises
+### Various LeetCode algorithms for practice & continued learning of Python programming skills
