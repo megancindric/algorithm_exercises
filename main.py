@@ -1,5 +1,5 @@
-from two_sum import Solution
+from palindrome_number import Solution
 
 
 solution = Solution()
-print(solution.twoSum([1,2,3,4],4))
+print(solution.isPalindrome(-12321))
