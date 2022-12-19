@@ -21,6 +21,7 @@ class Solution(object):
                 return count
             elif s[i] != " ":
                 count += 1
+        return count
 
 
 # Split string on spaces
